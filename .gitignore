@@ -1,2 +1,7 @@
 node_modules/
 build/
+.secret
+.secret-testnet
+.DS_Store
+.idea
+
